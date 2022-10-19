@@ -1,0 +1,13 @@
+{
+  "name": "functions-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "puppeteer": "^18.0.0"
+  },
+  "devDependencies": {}
+}
